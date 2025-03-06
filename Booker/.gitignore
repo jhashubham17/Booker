@@ -1,0 +1,12 @@
+
+dist
+node_modules
+package.json
+assets
+public
+eslint.config.js
+index.html
+package-lock.json
+package.jsonpostcss.config.js
+tailwind.config.js
+vite.config.js
